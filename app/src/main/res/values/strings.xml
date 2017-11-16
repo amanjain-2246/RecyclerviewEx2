@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RecyclerviewEx2</string>
+    <string-array name="titles">
+        <item>AUSTRALIA</item>
+        <item>CANADA</item>
+        <item> ENGLAND </item>
+        <item> INDIA</item>
+        <item> NEW ZEALAND</item>
+        <item>PAKISTAN</item>
+        <item>NETHERLAND</item>
+        <item> SAUDI ARBIA</item>
+        <item>SRI LANKA</item>
+        <item>USA</item>
+
+    </string-array>
+    <string-array name="descriptions">
+        <item>Largest City Sudeny</item>
+        <item>Second Punjab</item>
+        <item>Fish and Chips</item>
+        <item>Traditional and Culture</item>
+        <item>Famous for Kiwi</item>
+        <item> Capital is Islamabad</item>
+        <item>WindMills</item>
+        <item>Burj Khalifa</item>
+        <item>RamSetu Bridge India to Srilanka</item>
+        <item> Economically Strong </item>
+
+    </string-array>
+</resources>
